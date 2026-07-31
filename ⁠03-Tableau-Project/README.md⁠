@@ -1,0 +1,37 @@
+# 🏠 Airbnb Data Visualization & Market Analysis (Tableau)
+
+## 📌 Project Overview
+This project features an interactive **Tableau Dashboard** analyzing Airbnb listing data to uncover key pricing trends, revenue patterns, and geographic insights across target markets.
+
+---
+
+## 💡 Key Analysis & Features
+* **Monthly Revenue & Price Trends:** Visualized seasonal price fluctuations and earnings across months.
+* **Pricing by Room & Property Type:** Analyzed average price distributions based on room types (e.g., Entire Home, Private Room, Shared Room).
+* **Geographic Analysis by Zip Code:** Mapped listing density and pricing variation across geographic zones using zip codes.
+* **Interactive Filtering:** Embedded dynamic filters to drill down into specific price ranges, room types, and locations.
+
+---
+
+## 🛠️ Tools Used
+* **Tableau Desktop / Tableau Public**
+* **Data Source:** Airbnb Market Dataset (CSV / Excel)
+
+---
+
+## 🔗 Live Interactive Dashboard
+> 💡 **Explore the live interactive dashboard on Tableau Public:**  
+> 👉 [Link to Tableau Public Project](Insert Your Tableau Public Link Here)
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Airbnb Dashboard](./airbnb_dashboard_screenshot.png)
+
+---
+
+## 📬 Contact
+* **Author:** Sargsyan
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **GitHub:** [Your GitHub Profile Link]
